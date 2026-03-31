@@ -1,6 +1,6 @@
-# Learning Temporal: 101 in Python
+## Learning Temporal: 101 in Python
 It's all about getting to know temporal architecture.
-# Expected Outcome
+## Expected Outcome
 1. Basic Temporal building block(Workflow and Activities)
 2. Configure an Environment for deploying Temporal Application(Installation of SDK, CLI, Documentation, Shipping to Production)
 3. Use Temporal to Describe and Implement Business Process(Write workflow, pass parameteres to it, access the result, pass parameteres to activit, Get results from activity within workflow, interace from external service from an Activity)
