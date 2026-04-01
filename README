@@ -7,7 +7,7 @@ It's all about getting to know temporal architecture.
 4. Interpret the Workflow Execution Model(Relation btn Workder and Temporal Servers)
 5. Use Temporal’s tooling to manage the lifecycle of your application(Execute workflow from code or commandline, Make changes to code, Restart work if there are any changes to the code)
 
-## Local Machise Setup
+## Local Machine Setup
 1. Make virtual envitorment
 2. Install Temporal SDK with  `python -m pip install temporalio`
 3. Configure Local Temporal Service(User Temporal CLI)
