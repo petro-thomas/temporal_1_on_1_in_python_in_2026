@@ -20,17 +20,6 @@ It's all about getting to know temporal architecture.
     - Start Temporal Server with `temporal server start-dev`
     - Temporal service is at `localhost:7233` and WEBUI is at `http://localhost:8233`
 
-
-
-## Learning Temporal: 101 in Python
-It's all about getting to know temporal architecture.
-## Expected Outcome
-1. Basic Temporal building block(Workflow and Activities)
-2. Configure an Environment for deploying Temporal Application(Installation of SDK, CLI, Documentation, Shipping to Production)
-3. Use Temporal to Describe and Implement Business Process(Write workflow, pass parameteres to it, access the result, pass parameteres to activit, Get results from activity within workflow, interace from external service from an Activity)
-4. Interpret the Workflow Execution Model(Relation btn Workder and Temporal Servers)
-5. Use Temporal’s tooling to manage the lifecycle of your application(Execute workflow from code or commandline, Make changes to code, Restart work if there are any changes to the code)
-
 ## Local Machine Setup
 1. Make virtual envitorment
 2. Install Temporal SDK with  `python -m pip install temporalio`
